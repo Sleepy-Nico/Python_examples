@@ -1,0 +1,7 @@
+name = input("What is your name? ")
+print("HI "+ name)
+color = input("what is your favorit color?")
+print(color +" is a nice color!")
+animal = input("What is your favorit animal?")
+print(animal+"'s are grat animals!")
+print( name+" was walking around a farm and saw a "+ color +" a "+ animal)
